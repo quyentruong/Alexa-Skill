@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a education fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a education fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a education fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a education trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a education trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some education information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
