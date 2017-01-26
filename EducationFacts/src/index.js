@@ -1,7 +1,7 @@
 'use strict';
 var Alexa = require('alexa-sdk');
 
-var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = 'amzn1.ask.skill.1254c2d7-aec2-4703-a2eb-cce6228b0b9d'; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = 'Education Facts';
 
 /**
@@ -26,7 +26,13 @@ var FACTS = [
     "Women who are less educated are having more children, on average 2.5 children, over the course of their lifetime when compared to more educated women, on average 1.7 children.",
     "53% of the world’s out-of-school children are girls and 2/3 of the illiterate people in the world are women.",
     "Education empowers women to make healthy decisions about their lives. For example, women in Mali with a secondary level education or higher have an average of 3 children, while those with no education have an average of 7.",
-    "The youth literacy rates in South America and Europe are among the highest with 90-100% literacy. The African continent, however, has areas with less than 50% literacy among children ages 18 and under."
+    "The youth literacy rates in South America and Europe are among the highest with 90-100% literacy. The African continent, however, has areas with less than 50% literacy among children ages 18 and under.",
+    "The global gender gap in education is concentrated among the poor. Poor women aged 15 to 30, on average, have a year less schooling than poor men of the same age group.",
+    "Nine percent of children of primary school age (typically 6 to 11 years) continue to be denied the right to education.",
+    "For the school year ending in 2013, 124 million children and young adolescents, roughly between the ages of 6 and 15 years, have either never started school or have dropped out.",
+    "One in six children in low and middle income countries will not complete primary school in 2015.",
+    "Worldwide 780 million adults and 103 million young people (ages 15–24) are illiterate.",
+    "In 2012, the global adult literacy rate was 85 percent, compared to 91 percent for youth aged 15 to 24."
 ];
 
 exports.handler = function (event, context, callback) {
