@@ -1,0 +1,7 @@
+GetNewFactIntent tell me a new word
+GetNewFactIntent give me a new word
+PronounceIntent pronunciation
+GetExampleIntent give me some example
+GetExampleIntent give me some examples
+DefinitionIntent definition
+GetSpellingIntent spelling

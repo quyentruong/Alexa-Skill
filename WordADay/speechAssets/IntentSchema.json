@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent"
+    },
+    {
+      "intent": "PronounceIntent"
+    },
+    {
+      "intent": "GetExampleIntent"
+    },
+    {
+      "intent": "DefinitionIntent"
+    },
+    {
+      "intent": "GetSpellingIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "SessionEndedRequest"
+    },
+    {
+      "intent": "Unhandled"
+    }
+  ]
+}
